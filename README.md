@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, This is Krrish Kataria</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-
+<img align="center" src="https://wallpapercave.com/wp/wp5510903.jpg">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krrish557&show_icons=true&locale=en" alt="krrish557" /></p>
 
 - 🔭 I’m currently working on **Stream-Hub**
