@@ -3,8 +3,6 @@
 <img align="center" src="https://wallpapercave.com/wp/wp5510903.jpg">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krrish557&show_icons=true&locale=en" alt="krrish557" /></p>
 
-- 🔭 I’m currently working on **Stream-Hub**
-
 - 🌱 I’m currently learning **MERN, C++**
 
 - 👯 I’m looking to collaborate on **Telegram Bots**
