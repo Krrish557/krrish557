@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Pyrogram**
 
-- 📫 How to reach me **dhruvkataria740@gamil.com**
+- 📫 How to reach me **dhruvkataria740@gmail.com**
 
 - ⚡ Fun fact **I am Noob!!!**
 <br>
